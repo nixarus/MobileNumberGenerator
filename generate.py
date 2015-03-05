@@ -9,7 +9,6 @@ country_code = 234 #Nigeria
 max_characters = 13 #Maximum characters of GSM numbers you want
 
 pad_number = randint(0,9)
-
 number_range = { 
 
         "mtn": [ 703, 803, 806, 813, 814, 816, 903], 
